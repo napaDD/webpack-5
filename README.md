@@ -2,5 +2,5 @@
 
 
 #Auto reload page 
-#Sacss
+#Sass
 #React
