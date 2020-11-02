@@ -1,11 +1,11 @@
 import React from 'react'
-import '../styles/App.css';
+import '../styles/App.scss';
 
 
 const App = () => {
 	return (
-		<div>
-			<h1>ALIVE</h1>
+		<div className="home">
+		
 		</div>
 	)
 }
